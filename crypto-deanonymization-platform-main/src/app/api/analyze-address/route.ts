@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 
 // Chainalysis Sanctions API Configuration
-const CHAINALYSIS_API_KEY = "3c9da534c328364cc2782089a9bb85230dd6e97903c003d5e81546dfe2334bd0";
+const CHAINALYSIS_API_KEY = "your/_api_keye";
 const CHAINALYSIS_API_URL = "https://public.chainalysis.com/api/v1/address";
 
 // Mock scam database (in production, integrate with Chainabuse or similar)
