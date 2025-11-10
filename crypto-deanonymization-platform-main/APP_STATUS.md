@@ -10,7 +10,7 @@ Your platform is now running with all integrations active!
 
 ### ✅ Gemini AI API Key
 - **Status**: ✅ Active
-- **Key**: `AIzaSyCMUUuEjdnCLjg-OCMaYvliyoERghaLFRg`
+- **Key**: 
 - **Purpose**: 
   - AI Money Laundering Detection (analyzes 6+ schemes: layering, structuring, mixing, etc.)
   - Cross-Chain Analytics (tracks activity across multiple blockchains)
@@ -18,13 +18,13 @@ Your platform is now running with all integrations active!
 
 ### ✅ Chainalysis Sanctions API
 - **Status**: ✅ Active
-- **Key**: `3c9da534c328364cc2782089a9bb85230dd6e97903c003d5e81546dfe2334bd0`
+- **Key**: 
 - **Purpose**: OFAC SDN sanctions screening
 - **Rate Limit**: 5,000 requests per 5 minutes
 
 ### ✅ Discord Webhook
 - **Status**: ✅ Active
-- **URL**: `https://discord.com/api/webhooks/1437119339567517748/G_BLi44xhjH6rSQgavZkuWxg8AfcCetE_ldlLFi1y3c2U19fT1CQQlW5ZvdjmDQHkhoc`
+- **URL**: 
 - **Purpose**: Real-time alerts for high-risk addresses (Risk Score ≥ 60)
 
 ---
